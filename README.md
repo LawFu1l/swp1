@@ -4,4 +4,4 @@
 
 20243087 이건희 
 
-github 홈페이지에서 readme 변경
+github 홈페이지에서 readme 변경완료
